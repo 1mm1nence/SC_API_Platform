@@ -21,7 +21,7 @@ use Symfony\Component\Serializer\Annotation\SerializedName;
 use function Symfony\Component\String\u;
 
 /**
- * test 222
+ * test 22222
  */
 #[ORM\Entity(repositoryClass: DragonTreasureRepository::class)]
 #[ApiResource(
